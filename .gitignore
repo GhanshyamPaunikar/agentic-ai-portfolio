@@ -1,0 +1,74 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/versions
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# env files (can opt-in for committing if needed)
+.env*
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# tooling
+.claude/
+skills-lock.json
+
+# keep the template, ignore real env files
+!.env.example
+
+# The robot's source: Blender file, FBX, rendered frames and GIFs, ~180MB.
+# Only public/models/scout.glb ships; this folder stays on the machine it was
+# built on.
+public/models/Scout Robot/
+
+# The parallax background's source: build script, Blender file, glb and preview
+# frames. Nothing in it ships until the site loads a copy from public/models/.
+public/models/Parallax Background/
+
+# The CRT-head source: Blender scenes, renders and baked textures. Kept on
+# this machine only.
+public/models/CRT Head/
+
+# Editable v4 Blender scene and original visual references are delivered locally.
+assets/avatar-v4/references/
+assets/avatar-v4/work/
+assets/avatar-v4/*.blend*
+assets/avatar-v4/renders/
+
+# typescript
+*.tsbuildinfo
+
+# env files
+.env*
+!.env.example

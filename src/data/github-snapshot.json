@@ -1,0 +1,187 @@
+{
+  "takenAt": "2026-10-09",
+  "user": "GhanshyamPaunikar",
+  "repos": [
+    {
+      "name": "innerbloom",
+      "url": "https://github.com/GhanshyamPaunikar/innerbloom",
+      "description": "",
+      "languages": [
+        "Python",
+        "HTML"
+      ],
+      "topics": [],
+      "readme": "Innerbloom — Advanced AI Journal A journal that reads you back. Write honestly. Innerbloom finds the emotion under your words, sees who's actually in your life, and watches you becoming — all on local AI, so nothing leaves your machine. You open a blank page and start typing — or dictate it with your voice. When…",
+      "updated": "2026-09-12"
+    },
+    {
+      "name": "Translator-Sign-Language",
+      "url": "https://github.com/GhanshyamPaunikar/Translator-Sign-Language",
+      "description": "",
+      "languages": [
+        "Jupyter Notebook",
+        "Python",
+        "HTML"
+      ],
+      "topics": [],
+      "readme": "Sign Language Recognition — Bridging the Silence 🤟 A real-time American Sign Language (ASL) alphabet recognizer built with computer vision and deep learning. Built to explore how technology can make sign language more accessible. Made by Ghanshyam Paunikar 🚀 Stage 2 is live — BSL word-level translation This repo…",
+      "updated": "2026-05-26"
+    },
+    {
+      "name": "f1-race-predictor",
+      "url": "https://github.com/GhanshyamPaunikar/f1-race-predictor",
+      "description": "ML-powered F1 race outcome predictor — XGBoost ensemble with Vue.js UI",
+      "languages": [
+        "Python",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Shell"
+      ],
+      "topics": [],
+      "readme": "A machine learning web app that predicts Formula 1 race finishing positions using real historical data. Built with a XGBoost + HistGBR + Gradient Boosting ensemble trained on 8 seasons of F1 data (2018–2025). 🚀 Live demo: f1-race-predictor-production-0a10.up.railway.app Race Predictions — predicted finishing order…",
+      "updated": "2026-05-15"
+    },
+    {
+      "name": "carbonwatcher-docs",
+      "url": "https://github.com/GhanshyamPaunikar/carbonwatcher-docs",
+      "description": "Documentation site for CarbonWatcher — track energy, carbon, and cost of ML training and LLM calls",
+      "languages": [
+        "TypeScript",
+        "CSS",
+        "JavaScript"
+      ],
+      "topics": [],
+      "readme": "This is a Next.js project bootstrapped with create-next-app. First, run the development server: Open http://localhost:3000 with your browser to see the result. You can start editing the page by modifying app/page.tsx. The page auto-updates as you edit the file. This project uses next/font to automatically optimize…",
+      "updated": "2026-05-11"
+    },
+    {
+      "name": "carbonwatcher",
+      "url": "https://github.com/GhanshyamPaunikar/carbonwatcher",
+      "description": "Track energy, carbon footprint, and cost of ML training runs and LLM API calls — CLI + Python module",
+      "languages": [
+        "Python"
+      ],
+      "topics": [],
+      "readme": "Track the energy, carbon footprint, and cost of every ML training run and LLM API call — automatically, with zero changes to your existing code. AI is one of the fastest-growing sources of electricity demand on the planet. A single large model training run can emit as much CO₂ as five cars over their entire…",
+      "updated": "2026-05-11"
+    },
+    {
+      "name": "Image-Resolution-Upscaler",
+      "url": "https://github.com/GhanshyamPaunikar/Image-Resolution-Upscaler",
+      "description": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [],
+      "readme": "4× super-resolution powered by Stable Diffusion x4 Upscaler. Upload an image, hit upscale, get a crisp 4× result. First launch downloads the model (~1.7 GB) once and caches it. Uses stabilityai/stable-diffusion-x4-upscaler — a latent diffusion model conditioned on a low-resolution input. It hallucinates realistic…",
+      "updated": "2026-05-04"
+    },
+    {
+      "name": "GhanshyamPaunikar.github.io",
+      "url": "https://github.com/GhanshyamPaunikar/GhanshyamPaunikar.github.io",
+      "description": "",
+      "languages": [
+        "HTML"
+      ],
+      "topics": [],
+      "readme": "",
+      "updated": "2026-04-21"
+    },
+    {
+      "name": "Face-Mask",
+      "url": "https://github.com/GhanshyamPaunikar/Face-Mask",
+      "description": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [],
+      "readme": "Real time face-mask detection using Deep Learning and OpenCV This project uses a Deep Neural Network, more specifically a Convolutional Neural Network, to differentiate between images of people with and without masks. The CNN manages to get an accuracy of 98.2% on the training set and 97.3% on the test set. Then…",
+      "updated": "2025-03-26"
+    },
+    {
+      "name": "Data-Visualization-with-Python-offered-by-IBM",
+      "url": "https://github.com/GhanshyamPaunikar/Data-Visualization-with-Python-offered-by-IBM",
+      "description": "",
+      "languages": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "topics": [],
+      "readme": "Data-Visualization-with-Python-offered-by-IBM-on-Coursera This repository contains all my hands-on lab on the IBM Data Analyst Professional Certificate offered by IBM on Coursera. Visualization helps us understand and retain insights from the data we present to the stakeholders. Throughout this course, I learned…",
+      "updated": "2025-03-26"
+    },
+    {
+      "name": "Sentiment-Analysis",
+      "url": "https://github.com/GhanshyamPaunikar/Sentiment-Analysis",
+      "description": "Sentiment analysis",
+      "languages": [],
+      "topics": [],
+      "readme": "text2vec is an R package which provides an efficient framework with a concise API for text analysis and natural language processing (NLP). Goals which we aimed to achieve as a result of development of text2vec: Concise - expose as few functions as possible Consistent - expose unified interfaces, no need to explore…",
+      "updated": "2025-03-26"
+    },
+    {
+      "name": "AI-NPC",
+      "url": "https://github.com/GhanshyamPaunikar/AI-NPC",
+      "description": "Modern AI Applications in Video Gaming This project demonstrates the potential of AI in transforming gaming interactions. Developed as part of the MSc Data Science and Artificial Intelligence program, it focuses on creating a non-player character (NPC) powered by AI to showcase the capabilities of smart algorithms in video games.",
+      "languages": [
+        "C#"
+      ],
+      "topics": [],
+      "readme": "Modern AI Applications in Video Gaming This project demonstrates the integration of advanced AI technologies in video games, focusing on enhancing non-player characters (NPCs) to provide more realistic and interactive gaming experiences. It utilizes a combination of natural language processing, real-time…",
+      "updated": "2025-03-26"
+    },
+    {
+      "name": "IBM-Capstone",
+      "url": "https://github.com/GhanshyamPaunikar/IBM-Capstone",
+      "description": "",
+      "languages": [
+        "Jupyter Notebook",
+        "Python"
+      ],
+      "topics": [],
+      "readme": ":rocket: Applied Data Science Capstone This capstone project marks the culmination of the IBM Data Science Professional Certificate, the 10th and final course in the specialization. It integrates and applies the knowledge and skills acquired throughout the program into a comprehensive, real-world project.…",
+      "updated": "2025-03-26"
+    },
+    {
+      "name": "Air-Calculator",
+      "url": "https://github.com/GhanshyamPaunikar/Air-Calculator",
+      "description": "",
+      "languages": [
+        "Python"
+      ],
+      "topics": [],
+      "readme": "Calcul-Air - The Air Calculator This Neural Networking project lets you perform basic mathematicial calculations in Air. For this it uses openCV to display a real-time feed and mediapipe to detect and track Hands. Instruction to run this program Clone this repo to your machine. Open cmd in the repo folder. type…",
+      "updated": "2025-03-12"
+    },
+    {
+      "name": "Python-Project-for-Data-Science-IBM",
+      "url": "https://github.com/GhanshyamPaunikar/Python-Project-for-Data-Science-IBM",
+      "description": "",
+      "languages": [
+        "Jupyter Notebook"
+      ],
+      "topics": [],
+      "readme": "",
+      "updated": "2025-03-05"
+    },
+    {
+      "name": "-Data-Science-Tools-and-Ecosystem",
+      "url": "https://github.com/GhanshyamPaunikar/-Data-Science-Tools-and-Ecosystem",
+      "description": "",
+      "languages": [],
+      "topics": [],
+      "readme": "",
+      "updated": "2025-03-02"
+    },
+    {
+      "name": "Crypto-trends",
+      "url": "https://github.com/GhanshyamPaunikar/Crypto-trends",
+      "description": "",
+      "languages": [],
+      "topics": [],
+      "readme": "",
+      "updated": "2025-01-27"
+    }
+  ]
+}
